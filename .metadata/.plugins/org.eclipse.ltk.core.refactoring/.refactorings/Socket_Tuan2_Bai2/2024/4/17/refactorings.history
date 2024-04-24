@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;Gk2&apos; to &apos;Socket_Tuan2&apos;&#x0D;&#x0A;- Original project: &apos;Socket_Tuan2_Bai2&apos;&#x0D;&#x0A;- Original element: &apos;Socket_Tuan2_Bai2/src/Gk2&apos;&#x0D;&#x0A;- Renamed element: &apos;Socket_Tuan2_Bai2/src/Socket_Tuan2&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;Gk2&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;Gk2" name="Socket_Tuan2" qualified="false" references="true" stamp="1713921258717" textual="false" version="1.0"/>
+</session>
